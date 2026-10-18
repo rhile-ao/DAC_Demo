@@ -2,7 +2,11 @@
                   DAC DEMO 
 ======================================================
 Description:
-
+  This code reads the potentiometer’s analog value, 
+  converts it into voltage, displays both values on 
+  the Serial Monitor, and outputs an analog voltage 
+  through the ESP32’s DAC pin (GPIO 25).
+  
 Programmer:
   De Asis, Felicity M.
   Dela Torre, Shanna Dale R.
